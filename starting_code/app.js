@@ -1,6 +1,7 @@
 /* 
  * Package Imports
 */
+const session = require('express-session');
 
 const path = require("path");
 require("dotenv").config();
